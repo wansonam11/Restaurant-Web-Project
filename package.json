@@ -1,0 +1,20 @@
+{
+  "name": "eatgo",
+  "version": "1.0.0",
+  "description": "### Reference Documentation For further reference, please consider the following sections:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rise",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "EatGo Web Project"
+  },
+  "devDependencies": {
+    "webpack": "^5.4.0",
+    "webpack-cli": "^4.2.0",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
